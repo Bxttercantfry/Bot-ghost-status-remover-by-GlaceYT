@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["LISTENING","to SkiesEx"];
 
 
 let currentIndex = 0;
